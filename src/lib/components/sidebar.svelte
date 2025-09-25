@@ -42,7 +42,7 @@
                     <div class="collapse" id="dashboard">
                         <ul class="nav nav-collapse">
                             <li>
-                                <a href="/" target="_self">
+                                <a href="/">
                                     <span class="sub-item">Dashboard 1</span>
                                 </a>
                             </li>
@@ -89,7 +89,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="/sweetalert" target="_self">
+                                <a href="/sweetalert">
                                     <span class="sub-item">Sweet Alert</span>
                                 </a>
                             </li>

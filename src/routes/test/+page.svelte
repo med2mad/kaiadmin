@@ -1,7 +1,6 @@
 <script>
     export let data;
     const { res } = data;
-
     let x;
     res.then((data) => {
         x = data;
